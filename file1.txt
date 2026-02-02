@@ -1,0 +1,2 @@
+My First Git File
+Updated from day 2
